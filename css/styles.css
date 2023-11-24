@@ -11073,7 +11073,7 @@ header.masthead h1, header.masthead .h1 {
 .header-section h1 {
   text-align: center;
   background-color: #FFF9E6;
-  font-family: fantasy;
+  font-family: palatino;
 }
 
 /* Mustheadのテキスト部分のスタイル */
@@ -11081,13 +11081,13 @@ header.masthead h1, header.masthead .h1 {
   text-align: center;
   background-color: #FFF9E6;
   font-size: 30px;
-  font-family: fantasy;
+  font-family: palatino;
 }
 
 /* Menu部分のスタイル*/
 .menu-section {
   text-align: center;
-  font-family: fantasy;
+  font-family: palatino;
 }
 
 /* 料理のタイトルのスタイル */
@@ -11110,7 +11110,7 @@ header.masthead h1, header.masthead .h1 {
 /* Customer-support部分のスタイル */
 .customer-section{
   text-align: center;
-  font-family: fantasy;
+  font-family: palatino;
 }
 
 /* Customer-supportのテキスト部分のスタイル */
